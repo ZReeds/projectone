@@ -1,0 +1,7 @@
+User-Agent: Googlebot
+Allow: .js
+Allow: .css
+User-Agent: *
+User-Agent: *
+Allow: /ads/preferences/
+Allow: /gpt/
